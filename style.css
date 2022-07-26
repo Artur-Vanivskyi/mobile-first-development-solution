@@ -47,3 +47,13 @@ img {
 .group3{
   background-color: #775f47;
 }
+
+@media all and(min-width: 800px){
+  section{
+    padding: 0 10%;
+  }
+  .group{
+    display: flea;
+    flex-direction: row;
+  }
+}
